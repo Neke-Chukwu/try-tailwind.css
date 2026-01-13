@@ -1,0 +1,36 @@
+[
+  {
+  "id": 1,
+  "age": "5-12 years",
+  "users": "for kids",
+  "title": "Junior Program",
+  "description": "for kids aged 5-12 years focus on fundamentals and fun",
+  "url": "https://picsum.photos/id/237/200/300" 
+},
+
+{
+  "id": 2,
+  "age": "13-16 years",
+  "users": "for kids",
+  "title": "Teen Program",
+  "description": "for kids aged 13-16 years focus on fundamentals and fun",
+  "url": "https://picsum.photos/id/237/200/300" 
+},
+
+{
+  "id": 3,
+  "age": "18+ years",
+  "users": "for adults",
+  "title": "Adult Program",
+  "description": "for adults aged 18+ years focus on fundamentals and fun",
+  "url": "https://picsum.photos/id/237/200/300" 
+},
+{
+  "id": 4,
+  "age": "All ages",
+  "users": "for everyone",
+  "title": "Open Program",
+  "description": "for everyone aged all ages focus on fundamentals and fun",
+  "url": "https://picsum.photos/id/237/200/300"
+}
+]
